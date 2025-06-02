@@ -53,7 +53,7 @@ Testnet details:
 * Network name: Passet Hub
 * Chain ID: 420420421
 * RPC URL: https://testnet-passet-hub-eth-rpc.polkadot.io
-* Block Explorer URL: https://blockscout-passet-hub.parity-testnet.parity.io/
+* Block Explorer URL: https://blockscout-passet-hub.parity-testnet.parity.io/ 
 ```
 
 ### 💧 Polkadot Faucet
